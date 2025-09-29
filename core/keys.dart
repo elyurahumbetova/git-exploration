@@ -1,2 +1,1 @@
-static const isLogged = false;
-
+const isLogged = false;
